@@ -4,7 +4,13 @@ header {
     display: flex;
     align-items: center;
 }
-
+nav.container{
+   max-width:none;
+}
+.dsmovie-contact-container {
+    display: flex;
+    align-items: center;
+}
 .dsmovie-nav-content {
     display: flex;
     align-items: center;
@@ -18,11 +24,6 @@ header {
     margin: 0;
     font-weight: 700;
     }
-
-.dsmovie-contact-container {
-    display: flex;
-    align-items: center;
-}
 
 .dsmovie-contact-link {
     margin: 0 0 0 10px;
